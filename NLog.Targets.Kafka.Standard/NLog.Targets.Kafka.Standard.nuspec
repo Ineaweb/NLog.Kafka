@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <projectUrl>https://github.com/Ineaweb/NLog.Kafka</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <licenseUrl>https://github.com/Ineaweb/NLog.Kafka/master/LICENSE.md</licenseUrl>
+    <iconUrl>https://github.com/Ineaweb/NLog.Kafka/raw/master/Images/Icon.png</iconUrl>
+    <releaseNotes>Publish log information to kafka queue</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>NLog Kafka Target Message</tags>
+  </metadata>
+</package>
