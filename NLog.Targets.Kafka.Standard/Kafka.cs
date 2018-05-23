@@ -43,11 +43,9 @@ namespace NLog.Targets
             base.CloseTarget();
         }
 
-
         [RequiredParameter]
         public string Topic { get; set; }
 
-        [RequiredParameter]
         [ArrayParameter(typeof(KafkaBroker), "broker")]
         public IList<KafkaBroker> Brokers { get; set; }
 
